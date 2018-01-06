@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cp *.a /lib64/ 
+cp hash_table.h vld_c.h vld_cpp.h vld.h /usr/include/
